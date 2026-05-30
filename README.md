@@ -14,7 +14,7 @@ A collection of JavaScript exercises to practice core programming concepts, prob
 8. Working with Arrays
 9. Working with Objects
 10. Advanced Array Methods
-11. DOM Course: Document Object Model fundamentals
+11. DOM (Document Object Model) fundamentals
 12. Events & Interactivity | Make your Websites come alive!
 13. PROJECT: Code a Cookie Clickers Clone!
 14. Traversing the DOM
